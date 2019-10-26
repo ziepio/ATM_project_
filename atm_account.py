@@ -6,7 +6,7 @@
 
 
 class Account(object):
-hgg
+
     temp_account_balance = 0
 
     def __init__(self, balance, name, acc, pin):
